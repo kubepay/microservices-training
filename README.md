@@ -1,4 +1,4 @@
-# microservices-training
+# Microservices Training
 A deep-dive into the Microservice architectural style, and how to implement it with Spring technologies.
 
 ## What Will I Learn?
